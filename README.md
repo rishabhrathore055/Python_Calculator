@@ -1,5 +1,5 @@
 # Basic_Calculator
-<i><b>A Simple  Baic Calculator Using Python  Programmimg language That Take Input from User and Print Division, Multiplication, Addition and Subtraction,Mudulus as Per User’s Choice.</b></i>
+<b>A Simple  Baic Calculator Using Python  Programmimg language That Take Input from User and Print Division, Multiplication, Addition and Subtraction,Mudulus as Per User’s Choice.</b>
 
 ## How To use
 1. Fork the Code In your Local Enviroment

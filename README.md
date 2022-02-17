@@ -1,4 +1,4 @@
-# Basic_Calculator
+# Calculator
 A Simple  Basic Calculator Using Python  Programmimg language That Take Input from User and Print Division, Multiplication, Addition and Subtraction,Mudulus as Per User’s Choice.
 
 ## How To use
